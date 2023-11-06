@@ -1,0 +1,1 @@
+RMCN (Rogue MCN Disabler) representing an administrator or defender who identifies an ongoing MCN (Malicious Channel Network) or MCDP (Malicious Channel Data Pilferer) attack. They respond by adding their own script or code to disrupt and corrupt the entire MCN, rendering it useless and protecting the integrity of the network and its users.

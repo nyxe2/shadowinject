@@ -1,0 +1,1 @@
+MCDP (Malicious Channel Data Pilferer)  represents a cyber threat where a malicious user hijacks an existing Malicious Channel Network (MCN) to not only steal data from unsuspecting users but also siphon off valuable information from the original attackers themselves, turning the tables on those who initially exploited the network.

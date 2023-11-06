@@ -1,0 +1,10 @@
+SHADOWINJECT is currently a terrible application.
+it is in its prerelease, and when its in 2.0 it will have many features.
+
+including
+
+Hacking servers to gain info (USING AN ACTUAL MCN)
+
+Automatic MCN Hijacking
+
+Automatic Corrupting

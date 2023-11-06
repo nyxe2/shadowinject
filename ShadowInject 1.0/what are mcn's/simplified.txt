@@ -1,0 +1,5 @@
+MCN is used by hackers to grab info from users by backdooring the virus into a server.
+
+MCDP is when another hacker edits the code of an original MCN to give all the info to them instead.
+
+RMCN is when an admin corrupts an existing MCN.

